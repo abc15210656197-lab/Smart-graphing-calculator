@@ -1,0 +1,5 @@
+{
+  "name": "GraphIt - 智能函数绘图仪",
+  "description": "支持手动输入与拍照识别的智能函数图像生成工具，内置专业数学键盘与AI视觉识别。",
+  "requestFramePermissions": ["camera"]
+}
